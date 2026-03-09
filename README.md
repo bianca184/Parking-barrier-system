@@ -1,2 +1,2 @@
 # Parking-barrier-system
-Car barrier system simulation
+Smart parking barrier system using Arduino, ultrasonic sensors, servo motor and LCD display.
